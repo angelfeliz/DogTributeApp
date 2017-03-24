@@ -6,4 +6,4 @@ If you like to download or see it working you can  yes pull or download the repo
 The app change the image when you click on the sides of the image is display.
 
 
-![alt tag]
+![alt tag](https://github.com/angelfeliz/DogTributeApp/blob/master/DogApp.gif)
