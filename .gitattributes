@@ -1,2 +1,3 @@
 $ cat .gitattributes
-*.JSON linguist-language=Java
+*.json linguist-language=javaScript
+*.java linguist-language=Java
